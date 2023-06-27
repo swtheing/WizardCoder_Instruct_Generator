@@ -1,0 +1,5 @@
+Add new constraints and requirements to the original problem, adding approximately 10 additional words.
+Replace a commonly used requirement in the programming task with a less common and more specific one.
+If the original problem can be solved with only a few logical steps, please add more reasoning steps.
+Provide a piece of erroneous code as a reference to increase misdirection.
+Propose higher time or space complexity requirements, but please refrain from doing so frequently.
